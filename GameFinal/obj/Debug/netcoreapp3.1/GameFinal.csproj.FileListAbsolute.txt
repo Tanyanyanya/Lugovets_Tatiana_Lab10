@@ -1,0 +1,13 @@
+D:\ОП\GameFinal\GameFinal\bin\Debug\netcoreapp3.1\GameFinal.exe
+D:\ОП\GameFinal\GameFinal\bin\Debug\netcoreapp3.1\GameFinal.deps.json
+D:\ОП\GameFinal\GameFinal\bin\Debug\netcoreapp3.1\GameFinal.runtimeconfig.json
+D:\ОП\GameFinal\GameFinal\bin\Debug\netcoreapp3.1\GameFinal.runtimeconfig.dev.json
+D:\ОП\GameFinal\GameFinal\bin\Debug\netcoreapp3.1\GameFinal.dll
+D:\ОП\GameFinal\GameFinal\bin\Debug\netcoreapp3.1\GameFinal.pdb
+D:\ОП\GameFinal\GameFinal\obj\Debug\netcoreapp3.1\GameFinal.csprojAssemblyReference.cache
+D:\ОП\GameFinal\GameFinal\obj\Debug\netcoreapp3.1\GameFinal.AssemblyInfoInputs.cache
+D:\ОП\GameFinal\GameFinal\obj\Debug\netcoreapp3.1\GameFinal.AssemblyInfo.cs
+D:\ОП\GameFinal\GameFinal\obj\Debug\netcoreapp3.1\GameFinal.csproj.CoreCompileInputs.cache
+D:\ОП\GameFinal\GameFinal\obj\Debug\netcoreapp3.1\GameFinal.dll
+D:\ОП\GameFinal\GameFinal\obj\Debug\netcoreapp3.1\GameFinal.pdb
+D:\ОП\GameFinal\GameFinal\obj\Debug\netcoreapp3.1\GameFinal.genruntimeconfig.cache
